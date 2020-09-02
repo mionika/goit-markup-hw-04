@@ -40,6 +40,12 @@ ul, li {
   text-align: center;
   color: var(--primary-white-color);
 }
+.hero .container {
+  background-image: url(../images/bg.jpg);
+  width: 1600;
+  height: 600;
+  
+}
 .title {
   display: inline-block;
   padding-top: 200px;
