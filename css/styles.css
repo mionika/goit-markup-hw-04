@@ -35,16 +35,10 @@ ul, li {
 .hero {
   min-width: 1600px;
   min-height: 600px;
-  background-color: #2F303A;
+  background-image: url(./images/bg.jpg);
   text-transform: uppercase;
   text-align: center;
   color: var(--primary-white-color);
-}
-.hero .container {
-  background-image: url(../images/bg.jpg);
-  width: 1600;
-  height: 600;
-  
 }
 .title {
   display: inline-block;
